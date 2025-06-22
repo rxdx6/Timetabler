@@ -28,7 +28,7 @@ This Python script helps students manage their weekly timetable and assignment t
 
 1. **First Run Setup**
 ```bash
-python timetable_manager.py
+python Timetabler.py
 ```
 - Creates timetable structure when you run for first time
 - Fill in your weekly lecture schedule when prompted
